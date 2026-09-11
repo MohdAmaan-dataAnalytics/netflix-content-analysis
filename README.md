@@ -46,7 +46,7 @@ The dashboard includes:
 - Year-wise Content Trend (Line Chart)
 - Country-wise performance (Map)
 - Year Slicer for interactive filtering
-![Dashboard Screenshot](Netflix Dashboard.png)
+![Dashboard Screenshot](Netflix_Dashboard.png)
 ## 📁 Repository Structure
 ```
 ├── main.py                          # Data cleaning script
