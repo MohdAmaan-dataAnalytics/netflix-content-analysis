@@ -61,10 +61,3 @@ The dashboard includes:
 ├── Netflix_Dashboard.pbix           # Power BI Dashboard file
 └── README.md
 ```
-
-## 🎯 What I Learned
-During this project, I learned:
-- How to clean real-world messy data (encoding issues, inconsistent formats, missing values)
-- Practical use of SQL concepts like `LIKE`, `GROUP BY`, `SUBSTRING_INDEX`, and date functions
-- Pushing data directly from Python to MySQL using SQLAlchemy
-- Building interactive Power BI dashboards — cards, charts, maps, and slicers
